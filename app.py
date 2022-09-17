@@ -1,5 +1,3 @@
-from optparse import Values
-from statistics import mode
 import streamlit as st
 from joblib import load
 import numpy as np
